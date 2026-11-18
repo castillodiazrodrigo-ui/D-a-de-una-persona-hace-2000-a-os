@@ -1,0 +1,25 @@
+{
+  "name": "d-a-de-una-persona-hace-2000-a-os",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castillodiazrodrigo-ui/D-a-de-una-persona-hace-2000-a-os.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castillodiazrodrigo-ui/D-a-de-una-persona-hace-2000-a-os/issues"
+  },
+  "homepage": "https://github.com/castillodiazrodrigo-ui/D-a-de-una-persona-hace-2000-a-os#readme",
+  "dependencies": {
+    "@fontsource/cinzel": "^5.1.0",
+    "@fontsource/montserrat": "^5.1.0",
+    "three": "^0.170.0"
+  }
+}

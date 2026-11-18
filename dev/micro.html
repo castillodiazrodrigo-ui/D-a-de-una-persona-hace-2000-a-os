@@ -1,0 +1,19 @@
+<!doctype html><html><body style="margin:0"><canvas id=c width=1080 height=1920></canvas>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+const r = new THREE.WebGLRenderer({canvas: document.getElementById('c'), antialias: true, preserveDrawingBuffer: true});
+r.setSize(1080,1920,false); r.shadowMap.enabled=true;
+const s = new THREE.Scene(); const cam = new THREE.PerspectiveCamera(45,9/16,.1,100); cam.position.set(0,0,5);
+const mat = new THREE.MeshStandardMaterial({color:0xaa8866});
+const m = new THREE.Mesh(new THREE.PlaneGeometry(20,20), mat); s.add(m);
+const L = new THREE.DirectionalLight(0xffffff,2); L.castShadow=true; L.position.set(2,3,4); s.add(L, new THREE.HemisphereLight());
+const gl = r.getContext(); const sync=()=>{const px=new Uint8Array(4);gl.readPixels(0,0,1,1,gl.RGBA,gl.UNSIGNED_BYTE,px);};
+r.render(s,cam); sync();
+const out={};
+let a=performance.now(); for(let i=0;i<5;i++){ r.render(s,cam); sync(); } out.std=(performance.now()-a)/5;
+m.material = new THREE.MeshBasicMaterial({color:0xff0000});
+a=performance.now(); for(let i=0;i<5;i++){ r.render(s,cam); sync(); } out.basic=(performance.now()-a)/5;
+a=performance.now(); for(let i=0;i<5;i++){ gl.clear(gl.COLOR_BUFFER_BIT); sync(); } out.clear=(performance.now()-a)/5;
+window.out=out; window.done=true;
+</script></body></html>

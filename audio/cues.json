@@ -1,0 +1,1117 @@
+[
+ {
+  "t": 0,
+  "name": "amb_dawn",
+  "gain": 1
+ },
+ {
+  "t": 0.05,
+  "name": "whoosh_long",
+  "gain": 0.5
+ },
+ {
+  "t": 0.6,
+  "name": "rooster",
+  "gain": 0.55
+ },
+ {
+  "t": 2.3,
+  "name": "whoosh",
+  "gain": 0.5
+ },
+ {
+  "t": 2.92,
+  "name": "pop",
+  "gain": 0.8
+ },
+ {
+  "t": 3,
+  "name": "tick",
+  "gain": 0.45
+ },
+ {
+  "t": 3.56,
+  "name": "poof",
+  "gain": 0.9
+ },
+ {
+  "t": 3.6,
+  "name": "stamp",
+  "gain": 0.6
+ },
+ {
+  "t": 4.42,
+  "name": "shutter",
+  "gain": 0.7
+ },
+ {
+  "t": 4.55,
+  "name": "shimmer",
+  "gain": 0.8
+ },
+ {
+  "t": 4.6,
+  "name": "birds",
+  "gain": 0.7
+ },
+ {
+  "t": 5.65,
+  "name": "stretch",
+  "gain": 0.6
+ },
+ {
+  "t": 6.3,
+  "name": "amb_day",
+  "gain": 0.9
+ },
+ {
+  "t": 6.4,
+  "name": "whoosh",
+  "gain": 0.5
+ },
+ {
+  "t": 8.3,
+  "name": "boom_soft",
+  "gain": 0.8
+ },
+ {
+  "t": 9.4,
+  "name": "whoosh_long",
+  "gain": 0.45
+ },
+ {
+  "t": 11.2,
+  "name": "chime",
+  "gain": 0.6
+ },
+ {
+  "t": 11.8,
+  "name": "cicadas",
+  "gain": 0.8
+ },
+ {
+  "t": 12.9,
+  "name": "fan",
+  "gain": 0.5
+ },
+ {
+  "t": 13.45,
+  "name": "wind_cold",
+  "gain": 0.9
+ },
+ {
+  "t": 14.1,
+  "name": "shiver",
+  "gain": 0.6
+ },
+ {
+  "t": 15.4,
+  "name": "birds",
+  "gain": 0.5
+ },
+ {
+  "t": 15.5,
+  "name": "blink",
+  "gain": 0.7
+ },
+ {
+  "t": 16.62,
+  "name": "whoosh_long",
+  "gain": 0.7
+ },
+ {
+  "t": 16.775,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 16.8,
+  "name": "amb_street",
+  "gain": 0.8
+ },
+ {
+  "t": 17.116666666666667,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 17.458333333333332,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 17.791666666666668,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 18.133333333333333,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 18.4,
+  "name": "tick",
+  "gain": 0.25
+ },
+ {
+  "t": 18.475,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 18.6,
+  "name": "tick",
+  "gain": 0.25
+ },
+ {
+  "t": 18.8,
+  "name": "tick",
+  "gain": 0.25
+ },
+ {
+  "t": 18.816666666666666,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 19,
+  "name": "tick",
+  "gain": 0.25
+ },
+ {
+  "t": 19.158333333333335,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 19.491666666666667,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 19.62,
+  "name": "amb_street",
+  "gain": 0.7
+ },
+ {
+  "t": 19.62,
+  "name": "rumble_lift",
+  "gain": 0.8
+ },
+ {
+  "t": 20.1,
+  "name": "coin_stack",
+  "gain": 0.7
+ },
+ {
+  "t": 20.45,
+  "name": "coin_stack",
+  "gain": 0.6
+ },
+ {
+  "t": 20.8,
+  "name": "coin_stack",
+  "gain": 0.55
+ },
+ {
+  "t": 21.15,
+  "name": "coin",
+  "gain": 0.5
+ },
+ {
+  "t": 21.45,
+  "name": "coin",
+  "gain": 0.7
+ },
+ {
+  "t": 21.8,
+  "name": "ding",
+  "gain": 0.5
+ },
+ {
+  "t": 22.55,
+  "name": "amb_room",
+  "gain": 0.6
+ },
+ {
+  "t": 23.05,
+  "name": "jar_shake",
+  "gain": 0.7
+ },
+ {
+  "t": 23.45,
+  "name": "drip",
+  "gain": 0.9
+ },
+ {
+  "t": 24,
+  "name": "whoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 24.1,
+  "name": "sad_horn",
+  "gain": 0.5
+ },
+ {
+  "t": 24.96,
+  "name": "amb_street",
+  "gain": 0.9
+ },
+ {
+  "t": 24.96,
+  "name": "fountain",
+  "gain": 0.9
+ },
+ {
+  "t": 25.008333333333333,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.116666666666667,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.125,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.216666666666665,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.241666666666667,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.325,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.35,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.433333333333334,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.466666666666665,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.541666666666668,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.583333333333332,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.641666666666666,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.7,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.75,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.816666666666666,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.858333333333334,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 25.925,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 25.966666666666665,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.041666666666668,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 26.066666666666666,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.158333333333335,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 26.175,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.258333333333333,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 26.283333333333335,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.391666666666666,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.491666666666667,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.55,
+  "name": "jar_fill",
+  "gain": 0.9
+ },
+ {
+  "t": 26.6,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.708333333333332,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.816666666666666,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 26.916666666666668,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 27.025,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 27.133333333333333,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 27.241666666666667,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 27.341666666666665,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 27.45,
+  "name": "amb_room",
+  "gain": 0.6
+ },
+ {
+  "t": 27.6,
+  "name": "stool",
+  "gain": 0.6
+ },
+ {
+  "t": 28.46,
+  "name": "pop_plate",
+  "gain": 0.8
+ },
+ {
+  "t": 28.95,
+  "name": "crunch",
+  "gain": 0.8
+ },
+ {
+  "t": 29.66,
+  "name": "pop_plate",
+  "gain": 0.8
+ },
+ {
+  "t": 31.52,
+  "name": "pop_plate",
+  "gain": 0.8
+ },
+ {
+  "t": 31.6,
+  "name": "sparkle",
+  "gain": 0.8
+ },
+ {
+  "t": 31.95,
+  "name": "yum",
+  "gain": 0.6
+ },
+ {
+  "t": 32.46,
+  "name": "amb_street",
+  "gain": 0.9
+ },
+ {
+  "t": 32.5,
+  "name": "door",
+  "gain": 0.7
+ },
+ {
+  "t": 32.925,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.03333333333333,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.13333333333333,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.233333333333334,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.333333333333336,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.43333333333333,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.5,
+  "name": "whoosh",
+  "gain": 0.5
+ },
+ {
+  "t": 33.525,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.625,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.725,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.825,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 33.925,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 34.025,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 34.125,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 34.225,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 34.325,
+  "name": "step_stone",
+  "gain": 0.9
+ },
+ {
+  "t": 34.52,
+  "name": "amb_forge",
+  "gain": 0.9
+ },
+ {
+  "t": 34.88,
+  "name": "anvil",
+  "gain": 1
+ },
+ {
+  "t": 35.24,
+  "name": "anvil",
+  "gain": 0.9
+ },
+ {
+  "t": 35.52,
+  "name": "amb_market",
+  "gain": 1
+ },
+ {
+  "t": 35.641666666666666,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 35.675,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 35.925,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 36.016666666666666,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 36.2,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 36.35,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 36.475,
+  "name": "step_stone",
+  "gain": 0.35
+ },
+ {
+  "t": 36.56,
+  "name": "amb_port",
+  "gain": 1
+ },
+ {
+  "t": 36.7,
+  "name": "gull",
+  "gain": 0.7
+ },
+ {
+  "t": 36.71666666666667,
+  "name": "step_wood",
+  "gain": 0.9
+ },
+ {
+  "t": 37.03333333333333,
+  "name": "step_wood",
+  "gain": 0.9
+ },
+ {
+  "t": 37.2,
+  "name": "creak",
+  "gain": 0.5
+ },
+ {
+  "t": 37.358333333333334,
+  "name": "step_wood",
+  "gain": 0.9
+ },
+ {
+  "t": 37.66,
+  "name": "amb_forge",
+  "gain": 0.5
+ },
+ {
+  "t": 37.66,
+  "name": "wheel",
+  "gain": 0.8
+ },
+ {
+  "t": 38.4,
+  "name": "clay",
+  "gain": 0.6
+ },
+ {
+  "t": 39.1,
+  "name": "anvil",
+  "gain": 0.35
+ },
+ {
+  "t": 39.76,
+  "name": "amb_street",
+  "gain": 0.8
+ },
+ {
+  "t": 39.8,
+  "name": "sizzle",
+  "gain": 0.7
+ },
+ {
+  "t": 40.4,
+  "name": "bowl",
+  "gain": 0.8
+ },
+ {
+  "t": 42.26,
+  "name": "amb_baths_out",
+  "gain": 1
+ },
+ {
+  "t": 42.3,
+  "name": "whoosh_long",
+  "gain": 0.5
+ },
+ {
+  "t": 42.425,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 42.483333333333334,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 42.625,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 42.75,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 42.766666666666666,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 42.88333333333333,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.00833333333333,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.1,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 43.141666666666666,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.275,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.4,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.44166666666667,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 43.53333333333333,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.65833333333333,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.78333333333333,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 43.791666666666664,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 43.925,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 44.05,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 44.125,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 44.18333333333333,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 44.31666666666667,
+  "name": "step_stone",
+  "gain": 0.8
+ },
+ {
+  "t": 44.46666666666667,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 44.80833333333333,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 44.95,
+  "name": "coin",
+  "gain": 1
+ },
+ {
+  "t": 45.1,
+  "name": "coin_drop",
+  "gain": 0.7
+ },
+ {
+  "t": 45.141666666666666,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 45.483333333333334,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 45.825,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 46.166666666666664,
+  "name": "step_stone",
+  "gain": 0.3
+ },
+ {
+  "t": 46.36,
+  "name": "amb_baths_in",
+  "gain": 1
+ },
+ {
+  "t": 46.88,
+  "name": "splash",
+  "gain": 1
+ },
+ {
+  "t": 47.2,
+  "name": "splash_small",
+  "gain": 0.6
+ },
+ {
+  "t": 47.65,
+  "name": "murmur",
+  "gain": 0.8
+ },
+ {
+  "t": 48.95,
+  "name": "handshake",
+  "gain": 0.9
+ },
+ {
+  "t": 49.1,
+  "name": "ding",
+  "gain": 0.45
+ },
+ {
+  "t": 50.02,
+  "name": "amb_dusk",
+  "gain": 0.8
+ },
+ {
+  "t": 50.21666666666667,
+  "name": "step_wood",
+  "gain": 0.5
+ },
+ {
+  "t": 50.49166666666667,
+  "name": "step_wood",
+  "gain": 0.5
+ },
+ {
+  "t": 50.766666666666666,
+  "name": "step_wood",
+  "gain": 0.5
+ },
+ {
+  "t": 51.1,
+  "name": "pot",
+  "gain": 0.9
+ },
+ {
+  "t": 51.5,
+  "name": "cutlery",
+  "gain": 0.6
+ },
+ {
+  "t": 52.3,
+  "name": "dark_whoosh",
+  "gain": 0.9
+ },
+ {
+  "t": 52.6,
+  "name": "crickets",
+  "gain": 0.8
+ },
+ {
+  "t": 53.4,
+  "name": "owl",
+  "gain": 0.4
+ },
+ {
+  "t": 54.8,
+  "name": "strike",
+  "gain": 0.8
+ },
+ {
+  "t": 55.05,
+  "name": "ignite",
+  "gain": 1
+ },
+ {
+  "t": 55.2,
+  "name": "flame_loop",
+  "gain": 0.7
+ },
+ {
+  "t": 56.56,
+  "name": "amb_night",
+  "gain": 0.9
+ },
+ {
+  "t": 57.4,
+  "name": "cart_far",
+  "gain": 0.9
+ },
+ {
+  "t": 57.6,
+  "name": "dog",
+  "gain": 0.5
+ },
+ {
+  "t": 58.4,
+  "name": "whoosh_long",
+  "gain": 0.6
+ },
+ {
+  "t": 59.12,
+  "name": "amb_night",
+  "gain": 0.8
+ },
+ {
+  "t": 59.15,
+  "name": "boom_soft",
+  "gain": 0.9
+ },
+ {
+  "t": 59.3,
+  "name": "torch_loop",
+  "gain": 0.6
+ },
+ {
+  "t": 60.46,
+  "name": "amb_night",
+  "gain": 0.8
+ },
+ {
+  "t": 60.5,
+  "name": "cart_roll",
+  "gain": 1
+ },
+ {
+  "t": 60.608333333333334,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 60.625,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 60.925,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 60.975,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 61.2,
+  "name": "mule_snort",
+  "gain": 0.6
+ },
+ {
+  "t": 61.233333333333334,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 61.31666666666667,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 61.55,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 61.65833333333333,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 61.858333333333334,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 62.00833333333333,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 62.175,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 62.35,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 62.483333333333334,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 62.69166666666667,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 62.8,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 63,
+  "name": "cart_roll2",
+  "gain": 0.8
+ },
+ {
+  "t": 63.041666666666664,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 63.108333333333334,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 63.38333333333333,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 63.425,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 63.725,
+  "name": "step_hoof",
+  "gain": 0.6
+ },
+ {
+  "t": 63.733333333333334,
+  "name": "step_hoof",
+  "gain": 1
+ },
+ {
+  "t": 63.76,
+  "name": "amb_night_room",
+  "gain": 0.9
+ },
+ {
+  "t": 64.2,
+  "name": "cart_far",
+  "gain": 0.7
+ },
+ {
+  "t": 66.11,
+  "name": "whoosh_long",
+  "gain": 0.6
+ },
+ {
+  "t": 66.15,
+  "name": "amb_night_city",
+  "gain": 1
+ }
+]

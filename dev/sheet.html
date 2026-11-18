@@ -1,0 +1,20 @@
+<!doctype html><html><body style="margin:0;background:#888">
+<canvas id="out" width="2400" height="1100"></canvas>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js"}}</script>
+<script type="module">
+import { Toon } from '/src/characters/toon.js';
+import { ROSTER } from '/src/characters/roster.js';
+import { walk, idle } from '/src/characters/poses.js';
+const out = document.getElementById('out').getContext('2d');
+out.fillStyle='#d9cdb4'; out.fillRect(0,0,2400,1100);
+const list = [['marco','neutral'],['marco','happy'],['marco','surprise'],['marco','fear'],['marco','sad'],['marco','angry'],['marco','confused'],['marco','sleep'],
+ ['livia','happy'],['tito','joy'],['vecina','talk'],['rico','confident'],['herrero','determined'],['vendedor','talk'],['carretero','sleepy'],['cesar','confident'],['banista2','happy'],['marcoBano','yum']];
+list.forEach(([k,e],i)=>{
+  const t = new Toon(ROSTER[k]);
+  t.pose = Object.assign(t.pose, i%3===1 ? walk(0.3+i*0.07) : idle(i), {expr:e, turn: (i%4)/2-0.6, holdF: i===12?'hammer': i===0?'jar': i===9?'bread':null});
+  t.draw(1);
+  const col=i%9,row=Math.floor(i/9);
+  out.drawImage(t.canvas, col*260, row*540, 260, 390*1.0);
+});
+window.done=true;
+</script></body></html>

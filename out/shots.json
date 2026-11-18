@@ -1,0 +1,164 @@
+[
+ {
+  "id": "S01_roma_amanecer",
+  "t0": 0,
+  "t1": 2.75,
+  "set": "city"
+ },
+ {
+  "id": "S02_sin_alarma",
+  "t0": 2.75,
+  "t1": 4.35,
+  "set": "bedroom"
+ },
+ {
+  "id": "S03_despierta_sol",
+  "t0": 4.35,
+  "t1": 6.25,
+  "set": "bedroom"
+ },
+ {
+  "id": "S04_doce_horas",
+  "t0": 6.25,
+  "t1": 11.75,
+  "set": "sundial"
+ },
+ {
+  "id": "S05_verano_invierno",
+  "t0": 11.75,
+  "t1": 15.35,
+  "set": "sundial"
+ },
+ {
+  "id": "S06_abres_ojos",
+  "t0": 15.35,
+  "t1": 16.6,
+  "set": "bedroom"
+ },
+ {
+  "id": "S07_insula",
+  "t0": 16.6,
+  "t1": 19.6,
+  "set": "insula"
+ },
+ {
+  "id": "S08_alquiler",
+  "t0": 19.6,
+  "t1": 22.5,
+  "set": "insula"
+ },
+ {
+  "id": "S09_sin_agua",
+  "t0": 22.5,
+  "t1": 24.95,
+  "set": "bedroom"
+ },
+ {
+  "id": "S10_fuente",
+  "t0": 24.95,
+  "t1": 27.4,
+  "set": "street"
+ },
+ {
+  "id": "S11_desayuno",
+  "t0": 27.4,
+  "t1": 32.45,
+  "set": "bedroom"
+ },
+ {
+  "id": "S12_a_trabajar",
+  "t0": 32.45,
+  "t1": 34.5,
+  "set": "street"
+ },
+ {
+  "id": "S13_taller",
+  "t0": 34.5,
+  "t1": 35.5,
+  "set": "workshop"
+ },
+ {
+  "id": "S14_mercado",
+  "t0": 35.5,
+  "t1": 36.55,
+  "set": "street"
+ },
+ {
+  "id": "S15_puerto",
+  "t0": 36.55,
+  "t1": 37.65,
+  "set": "port"
+ },
+ {
+  "id": "S16_a_mano",
+  "t0": 37.65,
+  "t1": 39.75,
+  "set": "workshop"
+ },
+ {
+  "id": "S17_mediodia",
+  "t0": 39.75,
+  "t1": 42.25,
+  "set": "street"
+ },
+ {
+  "id": "S18_termas_ext",
+  "t0": 42.25,
+  "t1": 46.35,
+  "set": "bathsExt"
+ },
+ {
+  "id": "S19_termas_int",
+  "t0": 46.35,
+  "t1": 50,
+  "set": "bathsInt"
+ },
+ {
+  "id": "S20_cena",
+  "t0": 50,
+  "t1": 52.25,
+  "set": "bedroom"
+ },
+ {
+  "id": "S21_oscuridad",
+  "t0": 52.25,
+  "t1": 54.5,
+  "set": "bedroom"
+ },
+ {
+  "id": "S22_lampara",
+  "t0": 54.5,
+  "t1": 56.55,
+  "set": "bedroom"
+ },
+ {
+  "id": "S23_no_silencio",
+  "t0": 56.55,
+  "t1": 59.1,
+  "set": "bedroom"
+ },
+ {
+  "id": "S24_cesar",
+  "t0": 59.1,
+  "t1": 60.45,
+  "set": "street"
+ },
+ {
+  "id": "S25_carros",
+  "t0": 60.45,
+  "t1": 63.75,
+  "set": "street"
+ },
+ {
+  "id": "S26_dormir",
+  "t0": 63.75,
+  "t1": 66.1,
+  "set": "bedroom"
+ },
+ {
+  "id": "S27_trafico",
+  "t0": 66.1,
+  "t1": 67.78775,
+  "set": "city"
+ }
+]

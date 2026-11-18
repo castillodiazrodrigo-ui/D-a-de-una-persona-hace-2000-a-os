@@ -1,0 +1,8 @@
+node_modules/
+out/frames/
+out/tmp/
+*.pyc
+__pycache__/
+out/stems/
+out/*.wav
+out/render.log
