@@ -79,7 +79,7 @@ export function build() {
   Object.assign(set, { smoke, birds, torches, cartLight, clouds });
   set.mode = (m, k = 0) => {
     if (m === 'dawn') { set.tod('dawn'); set.sunAt(-.4 + Math.PI, .14, 80); setGlow(S, .25); winGlow.material.emissiveIntensity = 0; }
-    if (m === 'night') { set.tod('night'); set.sunAt(.8, .9, 80); setGlow(S, 1); winGlow.material.emissiveIntensity = 1.6 * (1 - k); }
+    if (m === 'night') { set.tod('night'); set.sunAt(.8, .9, 80); setGlow(S, 1); set.exposure = 1.7; set.lights.hemi.intensity = .4; set.lights.sun.intensity = .9; winGlow.material.emissiveIntensity = 1.6 * (1 - k); }
     set.night = m === 'night';
     for (const s of smoke) s.intensity = m === 'night' ? .3 : 1;
     set.applyTint();

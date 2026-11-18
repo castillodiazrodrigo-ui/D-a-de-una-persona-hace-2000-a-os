@@ -131,9 +131,9 @@ export const SHOTS = [
     run(c, s) {
       s.mode('night', .0);
       c.camKeys([
-        { t: 0, p: [0, 11.6, 5.4], l: [0, 11.3, 3.5], fov: 38 },
+        { t: 0, p: [0, 11.7, 8.2], l: [0, 11.2, 3.5], fov: 42 },
         { t: 1.69, p: [10, 22, 34], l: [6, 6, 0], fov: 46, ease: easeInOut },
       ], { shake: .03 });
-      s.winGlow.material.emissiveIntensity = .7;
+      s.winGlow.material.emissiveIntensity = .45;
     } },
 ];

@@ -20,7 +20,7 @@ export const SHOTS = [
         { t: 1.6, p: [-4, 22, 34], l: [0, 10, 2], fov: 42 },
         { t: 2.75, p: [0, 11.8, 6.2], l: [0, 11.4, 3.5], fov: 38, ease: k => k * k * (3 - 2 * k) },
       ], { shake: .05 });
-      s.winGlow.material.emissiveIntensity = .9 * smooth(inv(1.5, 2.6, c.t));
+      s.winGlow.material.emissiveIntensity = .5 * smooth(inv(1.5, 2.6, c.t));
     } },
   // ---------------------------------------------------------------
   // S02 · 2.75–4.35 · "no habría alarma."

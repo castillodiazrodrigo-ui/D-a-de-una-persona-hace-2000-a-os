@@ -6,3 +6,5 @@ __pycache__/
 out/stems/
 out/*.wav
 out/render.log
+out/*.mp4
+out/rerender.log
