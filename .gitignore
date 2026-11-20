@@ -8,3 +8,6 @@ out/*.wav
 out/render.log
 out/*.mp4
 out/rerender.log
+ep1/out/frames/
+ep1/out/*.wav
+ep1/out/*.mp4
